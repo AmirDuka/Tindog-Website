@@ -1,2 +1,1 @@
-# Tindog-Website
-Bootstrap
+TinDog Starting Files
